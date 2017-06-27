@@ -3,31 +3,34 @@ Resources I found useful learning fmri/programming
 
 ## bash:
 ### wikis
-http://mywiki.wooledge.org/BashGuide
-http://wiki.bash-hackers.org/doku.php
+- http://mywiki.wooledge.org/BashGuide
+- http://wiki.bash-hackers.org/doku.php
 
 ### guides
-https://likegeeks.com/bash-script-easy-guide/ (parts 1,2, &3)
-https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/
+- https://likegeeks.com/bash-script-easy-guide/ (parts 1,2, &3)
+- https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/
 
 ### games
-http://overthewire.org/wargames/bandit/bandit0.html
+- http://overthewire.org/wargames/bandit/bandit0.html
 
 ### tools
-https://explainshell.com/
-https://www.shellcheck.net/
+- https://explainshell.com/
+- https://www.shellcheck.net/
 
 ## linux
-https://linuxjourney.com/
+- https://linuxjourney.com/
 
 ## github:
-https://www.youtube.com/watch?v=Y9XZQO1n_7c
+- https://www.youtube.com/watch?v=Y9XZQO1n_7c
 
 ## regular expressions (programming):
-https://regex101.com/
+- https://regex101.com/
  
 ## python
-http://www.pythontutor.com/visualize.html#mode=edit
+- http://www.pythontutor.com/visualize.html#mode=edit
 
 ## neuroanatomy
-http://headneckbrainspine.com/
+- http://headneckbrainspine.com/
+
+## yaml
+- http://docs.ansible.com/ansible/YAMLSyntax.html
