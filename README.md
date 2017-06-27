@@ -34,3 +34,4 @@ Resources I found useful learning fmri/programming
 
 ## yaml
 - http://docs.ansible.com/ansible/YAMLSyntax.html
+- http://yaml.org/spec/1.2/spec.html
