@@ -35,3 +35,13 @@ Resources I found useful learning fmri/programming
 ## yaml
 - http://docs.ansible.com/ansible/YAMLSyntax.html
 - http://yaml.org/spec/1.2/spec.html
+
+## (f)MRI
+### casual reading/listening
+- http://science.howstuffworks.com/mri.htm
+- http://science.howstuffworks.com/fmri.htm
+- https://www.ndcn.ox.ac.uk/divisions/fmrib/what-is-fmri/a-spin-around-the-brain
+
+### classes
+- https://www.coursera.org/learn/functional-mri/
+- https://www.coursera.org/learn/functional-mri-2/home/welcome
