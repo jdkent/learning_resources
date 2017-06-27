@@ -45,6 +45,7 @@ Resources I found useful learning fmri/programming
 ### classes
 - https://www.coursera.org/learn/functional-mri/
 - https://www.coursera.org/learn/functional-mri-2/home/welcome
+- https://fmrif.nimh.nih.gov/public/fmri-course/index_html
 
 ### freesurfer lectures
-https://www.youtube.com/channel/UCruQerP8aa-gYttXkAcyveA
+- https://www.youtube.com/channel/UCruQerP8aa-gYttXkAcyveA
