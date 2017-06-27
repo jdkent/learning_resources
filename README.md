@@ -42,11 +42,23 @@ Resources I found useful learning fmri/programming
 - http://science.howstuffworks.com/mri.htm
 - http://science.howstuffworks.com/fmri.htm
 - https://www.ndcn.ox.ac.uk/divisions/fmrib/what-is-fmri/a-spin-around-the-brain
+- http://jonathanpeelle.net/mri-reading-list
+
+### blogs
+- http://mumfordbrainstats.tumblr.com/
+- https://www.andysbrainblog.com/
+- http://andysbrainblog.blogspot.com/
+- http://mindhive.mit.edu/imaging
+- https://practicalfmri.blogspot.com/
 
 ### classes
 - https://www.coursera.org/learn/functional-mri/
 - https://www.coursera.org/learn/functional-mri-2/home/welcome
-- https://fmrif.nimh.nih.gov/public/fmri-course/index_html
 
-### freesurfer lectures
+
+### lectures
 - https://www.youtube.com/channel/UCruQerP8aa-gYttXkAcyveA
+- http://www.brainmapping.org/NITP/NITPSummerProgram.php
+- https://fmrif.nimh.nih.gov/public/fmri-course/index_html
+- https://fmri-training-course.psych.lsa.umich.edu/2016-lecture-recordings/
+
