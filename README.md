@@ -56,10 +56,11 @@ Resources I found useful learning fmri/programming
 - https://www.coursera.org/learn/functional-mri/
 - https://www.coursera.org/learn/functional-mri-2/home/welcome
 
-
 ### lectures
 - https://www.youtube.com/channel/UCruQerP8aa-gYttXkAcyveA
 - http://www.brainmapping.org/NITP/NITPSummerProgram.php
 - https://fmrif.nimh.nih.gov/public/fmri-course/index_html
 - https://fmri-training-course.psych.lsa.umich.edu/2016-lecture-recordings/
 
+### wikis
+- https://en.wikibooks.org/wiki/Neuroimaging_Data_Processing
