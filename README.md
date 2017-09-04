@@ -9,6 +9,7 @@ Resources I found useful learning fmri/programming
 ### guides
 - https://likegeeks.com/bash-script-easy-guide/ (parts 1,2, &3)
 - https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/
+- http://www.reproducibleimaging.org/module-reproducible-basics/
 
 ### games
 - http://overthewire.org/wargames/bandit/bandit0.html
