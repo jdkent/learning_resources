@@ -31,6 +31,7 @@ Resources I found useful learning fmri/programming
 - http://www.pythontutor.com/visualize.html#mode=edit
 - https://learnpythonthehardway.org/
 - http://book.pythontips.com/en/latest/index.html
+- https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online
 
 ## neuroanatomy
 - http://headneckbrainspine.com/
