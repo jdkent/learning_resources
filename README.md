@@ -28,10 +28,14 @@ Resources I found useful learning fmri/programming
 - https://regex101.com/
  
 ## python
+### General Python
 - http://www.pythontutor.com/visualize.html#mode=edit
 - https://learnpythonthehardway.org/
 - http://book.pythontips.com/en/latest/index.html
 - https://bids.berkeley.edu/news/python-boot-camp-fall-2016-training-videos-available-online
+### nipype
+- https://miykael.github.io/nipype_tutorial/
+- https://miykael.github.io/nipype-beginner-s-guide/
 
 ## neuroanatomy
 - http://headneckbrainspine.com/
