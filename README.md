@@ -38,6 +38,8 @@ Resources I found useful learning fmri/programming
 ### nipype
 - https://miykael.github.io/nipype_tutorial/
 - https://miykael.github.io/nipype-beginner-s-guide/
+### testing
+- http://ianhawke.github.io/blog/close-enough.html
 
 ## neuroanatomy
 - http://headneckbrainspine.com/
