@@ -36,6 +36,7 @@ Resources I found useful learning fmri/programming
 - https://software-carpentry.org/lessons/
 - http://www.datacarpentry.org/lessons/
 - http://interactivepython.org/runestone/static/thinkcspy/index.html
+- https://github.com/neurohackweek
 
 ### nipype
 - https://miykael.github.io/nipype_tutorial/
